@@ -1,6 +1,6 @@
 {
 	"name": "streaming-heart-mother",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "Find EventEmitter.emit occurences with no listeners ",
 	"main": "streaming-heart-mother.js",
 	"repository": {
