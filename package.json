@@ -1,0 +1,12 @@
+{
+	"name": "streaming-heart-mother",
+	"version": "1.0.0",
+	"description": "Find EventEmitter.emit occurences with no listeners ",
+	"main": "streaming-heart-mother.js",
+	"repository": {
+		"type": "git",
+		"url": "https://archive.voooowarez.com/streaming-heart-mother"
+	},
+	"author": "rektide de la faye",
+	"license": "X"
+}
